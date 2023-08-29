@@ -22,7 +22,7 @@ class Footer extends Component {
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
-                Made with ❤️ by {" "}
+                Made with <span role="img" aria-label="love">❤️</span> by {" "}
                 {this.props.sharedBasicInfo
                   ? this.props.sharedBasicInfo.name
                   : "???"}
