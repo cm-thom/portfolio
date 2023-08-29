@@ -35,23 +35,22 @@
           {
             "class": "devicon-graphql-plain",
             "name": "GraphQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
           }
         ]
       },
       {
-        "title": "Second Project",
+        "title": "Weather Forecast",
         "startDate": "2023",
-        "description": "description of some other project that is good to show off",
+        "description": "A simple weather site built to practice accessing data through an API and displaying it on a page.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
