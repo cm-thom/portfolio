@@ -13,10 +13,9 @@
       {
         "title": "Bon Voyage",
         "startDate": "2023",
-        "description": "Description text for Bon Voyage, something about technologies and learning.",
+        "description": "Bon Voyage is an application for planning travel with friends. Users can log in and create trips to plan trip dates, destinations, consolidate hotel information, etc, all in one place.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg"
         ],
         "url": "https://github.com/cm-thom/Bon-Voyage",
         "technologies": [

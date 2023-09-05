@@ -29,6 +29,11 @@
           "level": "95"
         },
         {
+          "name": "Sass",
+          "class": "devicon-sass-plain",
+          "level": "95"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
